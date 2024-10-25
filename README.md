@@ -37,6 +37,11 @@
    
  <!-- Conecct section: END -->
 
+## :fire: Github Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harmonyelendu&show_icons=true&locale=en&theme=tokyonight" alt="harmonyelendu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harmonyelendu&&theme=tokyonight" alt="harmonyelendu" /></p>
 
 **You can check out my Articles here**
 - [Meduim](https://harmonyelendu.medium.com/)
