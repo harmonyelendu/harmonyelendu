@@ -30,9 +30,9 @@
 
 <h2>Connect with me</h3>
     <p>
-        <a href="https://www.linkedin.com/in/harmonyelendu/"><img src="https://img.shields.io/badge/-Harmony%20Elendu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/harmonyelendu" alt="LinkedIn Badge"></a> 
-       <a href="https://twitter.com/ogaharmony"><img src="https://img.shields.io/badge/-Harmony Elendu-informational?style=plastic&amp;labelColor=informational&amp;logo=X&amp;link=https://twitter.com/Dev_180Memes" alt="XBadge"></a>
-        <a href="mailto:elenduharmony@gmail.com"><img src="https://img.shields.io/badge/-Harmony%20Elendu-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:elenduharmony@gmail.com" alt="Gmail Badge"></a>
+        <a href="https://www.linkedin.com/in/harmonyelendu/"><img src="https://img.shields.io/badge/-LinkedIn%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/harmonyelendu" alt="LinkedIn Badge"></a> 
+       <a href="https://twitter.com/ogaharmony"><img src="https://img.shields.io/badge/-Twitter(X)-informational?style=plastic&amp;labelColor=informational&amp;logo=X&amp;link=https://twitter.com/Dev_180Memes" alt="XBadge"></a>
+        <a href="mailto:elenduharmony@gmail.com"><img src="https://img.shields.io/badge/-Mail-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:elenduharmony@gmail.com" alt="Gmail Badge"></a>
    </p>
    
  <!-- Conecct section: END -->
@@ -51,7 +51,7 @@
   <img src="https://komarev.com/ghpvc/?username=harmonyelendu&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
-### What I am listening to on Spotify now 🎧
+### Curious to know more about me?
+Check out my [Portfolio](https://quixotic-jackfruit-a45.notion.site/Harmony-s-Portfolio-16c9923604dc80968a7fe573fb2cf6cc) 📜👌🏽
 
-- [Morning Rave](https://open.spotify.com/playlist/5sMyzZSVJat6bZDd2HSlBa?si=Asab4MXNQ1qoJVNMYXMqUQ)
 
