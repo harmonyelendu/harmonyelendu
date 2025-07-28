@@ -50,7 +50,7 @@
   <img src="https://komarev.com/ghpvc/?username=harmonyelendu&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
-### Curious to know more about me?
+### I am funfilled, Curious to know more about me?
 Check out my [Portfolio](https://quixotic-jackfruit-a45.notion.site/Harmony-s-Portfolio-16c9923604dc80968a7fe573fb2cf6cc) 📜👌🏽
 
 
