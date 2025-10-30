@@ -3,7 +3,7 @@ This glossary offers clear and practical definitions of key terms you’ll encou
 It’s designed for anyone navigating this space, whether you’re an engineer transitioning into product, a product manager deepening your technical
 
 To keep this glossary current and collaborative, you’re welcome to contribute: create a pull request, open an issue, or share, like the repository with others who’ll find it useful.
-You can also subscribe to my Substack for more insights and updates.
+You can also subscribe to my [Substack](https://substack.com/@harmonyelendu) for more insights and updates.
 
 ## Glossary
 1. <span style="text-decoration:underline;">Agile Methodology: </span>Agile is an iterative project management approach that focuses on delivering work in small increments called sprints. It emphasizes flexibility, collaboration, customer feedback, and continuous improvement. Agile helps teams adapt quickly to change and deliver value faster compared to traditional linear methods.
