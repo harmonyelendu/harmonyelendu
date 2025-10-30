@@ -44,7 +44,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harmonyelendu&&theme=tokyonight" alt="harmonyelendu" /></p>
 
 **You can check out my Articles here**
-- [Meduim](https://harmonyelendu.medium.com/)
+- [Substack](https://substack.com/@harmonyelendu)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=harmonyelendu&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
