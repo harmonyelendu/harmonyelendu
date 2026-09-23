@@ -13,15 +13,7 @@
 
 <h2>⚡️ About Harmony Elendu</h2>
 
-<ul>
-  
-  <li>👨‍💻🗓 A Multi disciplanary Product | Program | Project Manager, I work endlessly improving and ticking Products, User Rentention and Organisational Objectives and goals for different brands and companies.</li>
-  
-  <li>📈🚀 I have a strong proclivity in analytical thinking, disciplined problem solving, attention to detail, documentations, collaboration, and strong communication skills.</a>
-  
-  <li>🥂🏆 I'm passionate about Technological Products and development, Contributing to Open Source, Speaking, Documentation and Program Management with a mantra of making the world a better place through skill and tech.</li>
-  
-  <li>🎉🌱 Fun Fact : I'm an Open Source and Technology Preacher, love traveling, food and Music.
+jxktflghijhcfnc 
 </ul>
 
 <!-- About me section: END -->
