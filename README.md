@@ -21,7 +21,7 @@
   
   <li>🥂🏆 I'm passionate about Technological Products and development, Contributing to Open Source, Speaking, Documentation and Program Management with a mantra of making the world a better place through skill and tech.</li>
   
-  <li>🎉🌱 Fun Fact : I'm an Open Source and Technology Preacher, love traveling, food and
+  <li>🎉🌱 Fun Fact : I'm an Open Source and Technology Preacher, love traveling, food and music.
 </ul>
 
 <!-- About me section: END -->
